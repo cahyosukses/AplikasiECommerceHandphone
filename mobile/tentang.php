@@ -1,0 +1,1 @@
+<span class=judul_head><center><b>Profil Pembuat Aplikasi</b></span><br /><br /><tr><td class=isi><div><div>Okky Hendayana S.<br/>077006088</div><div><br></div><div>Teknik Informatika<br/>Universitas Siliwangi Tasikmalaya<br/>2013</div></div><div></div>    </p>

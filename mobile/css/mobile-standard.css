@@ -1,0 +1,322 @@
+.biasa {
+	height: 10px;
+	font-size: 8px;
+	padding: 0px;
+}
+
+.ui-content {
+	font-size: 12px;
+}
+
+/*.ui-content a {
+	font-size: 10px;
+}*/
+
+.ui-content img {
+	width: 50%;
+	height: 50%;
+}
+
+#gambarnya {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+.gambar {
+	width: 100%;
+	height: 100%;
+	/*top: 0px;
+	left: 0px;
+	z-index: 0;
+	position: absolute;*/
+}
+/*.ui-content table {
+	font-size: 10px;
+	border: 1px;
+	font-weight: normal;
+	overflow-x: scroll;
+}*/
+
+
+/*.ui-btn-text {
+	white-space: normal;
+	font-size: 8px;
+}*/
+
+/*.ui-navbar ul {
+	display: inline;
+	list-style-type: none;
+}*/
+
+/*.ui-navbar {
+	height: 20px;
+	padding: 0px;
+}*/
+
+/*.ui-btn-inner {
+	padding: 0px;
+}*/
+
+/*.ui-header .ui-title { margin-left: 1em; margin-right: 1em; }*/
+
+/* Tables
+-------------------------------------------------------------- */
+
+th,td   { padding: 0px; }
+
+table.custom {
+	width:100%;
+	border: 1px solid #ccc;
+	
+	border-collapse: seperate;
+	overflow-x: auto;
+	word-wrap: break-word;
+}
+	
+/*table.customs {
+	width:100%;
+	border-top:0px solid #ccc;
+	border-right:0px solid #ccc;
+	border-bottom:0px solid #ccc;
+	border-left:0px solid #ccc;
+	
+	border-collapse:collapse;}*/
+		
+table.custom caption  {
+	color: #ccc;
+	/*font-size:1em;
+	letter-spacing:.1em;*/
+	margin:0 0 0 0;
+	padding:0;
+	caption-side:top;
+	text-align:center;}	
+		
+table.custom tr.odd td	{
+	background:#F9F9F9}
+	
+table.custom tr.odd .column1	{
+	background:#F0F0F0;}
+		
+table.custom .column1 {
+	background:#F0F0F0;}
+	
+table.custom td {
+	border-bottom:1px solid #ccc;
+	border-left:1px solid #ccc;
+	
+	}	
+				
+table.custom th {
+	font-weight:normal;
+	text-align:left;
+	border-bottom: 1px solid #ccc;
+	border-left:1px solid #ccc;
+	/*padding:.3em 1em;*/}	
+							
+table.custom thead th {
+	background:#F0F0F0;
+	text-align:center;
+	/*font:bold 1.3em/2.2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;*/
+	color:#555}	
+	
+table.custom tfoot th {
+	text-align:center;
+	background:#F0F0F0;}	
+	
+table.custom tfoot th strong {
+	/*font:bold 1.2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	margin:.5em .5em .5em 0;*/
+	color:#66a3d3;}		
+	
+table.custom tfoot th em {
+	color:#f03b58;
+	font-weight: bold;
+	/*font-size: 1.1em;*/
+	font-style: normal;}	
+	
+	
+
+		
+table.customs caption  {
+	color: #ccc;
+	font-size:1em;
+	letter-spacing:.1em;
+	margin:0 0 0 0;
+	padding:0;
+	caption-side:top;
+	text-align:center;}	
+		
+table.customs tr.odd td	{
+	background:#F9F9F9;
+	}
+	
+table.customs tr.odd .column1	{
+	background:#F0F0F0;}
+		
+table.customs .column1 {
+	background:#F0F0F0;}
+	
+table.customs td {
+	border-bottom:0px solid #ccc;
+	border-left:0px solid #ccc;
+	}	
+				
+table.customs th {
+	font-weight:normal;
+	text-align:left;
+	border-bottom: 0px solid #ccc;
+	border-left:0px solid #ccc;
+	padding:.3em 1em;}	
+							
+table.customs thead th {
+	background:#F0F0F0;
+	text-align:center;
+	font:bold 1.3em/2.2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	color:#555}	
+	
+table.customs tfoot th {
+	text-align:center;
+	background:#F0F0F0;}	
+	
+table.customs tfoot th strong {
+	font:bold 1.2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	margin:.5em .5em .5em 0;
+	color:#66a3d3;}		
+	
+table.customs tfoot th em {
+	color:#f03b58;
+	font-weight: bold;
+	font-size: 1.1em;
+	font-style: normal;}	
+	
+table.tampil-data {
+	background: #ffffff;
+	border-bottom: 1px solid #000000;
+	width: 100%;
+}
+
+.rata-tengah {
+	text-align: justify;
+}
+
+table.datanya {
+	border: 1px solid #000000;
+	color: #111111;
+}
+
+table.datanya th {
+	background-color: #4a81af;
+	text-align: center;
+}
+
+table.datanya td {
+	
+}
+
+
+table.aboutnya {
+	font-family: Tahoma; 
+	font-size: 10pt;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin: 0;
+	padding: 0;
+}
+table.aboutnya th{
+	color: #FFFFFF;
+	text-align: center;
+	padding: 0;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+	background-color: #283f08;
+}
+table.aboutnya td{
+	padding: 0.2em;
+	vertical-align: top;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+}
+
+p .garbaw {
+	border-bottom : solid 1px;
+}
+
+/*.ui-bar-a,
+.ui-bar-a input,
+.ui-bar-a select,
+.ui-bar-a textarea,
+.ui-bar-a button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+.ui-bar-b,
+.ui-bar-b input,
+.ui-bar-b select,
+.ui-bar-b textarea,
+.ui-bar-b button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+.ui-bar-c,
+.ui-bar-c input,
+.ui-bar-c select,
+.ui-bar-c textarea,
+.ui-bar-c button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+.ui-bar-d,
+.ui-bar-d input,
+.ui-bar-d select,
+.ui-bar-d textarea,
+.ui-bar-d button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+.ui-bar-e,
+.ui-bar-e input,
+.ui-bar-e select,
+.ui-bar-e textarea,
+.ui-bar-e button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+
+
+body .ui-body-a,
+body .ui-body-a input,
+body .ui-body-a select,
+body .ui-body-a textarea,
+body .ui-body-a button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+body .ui-body-b,
+body .ui-body-b input,
+body .ui-body-b select,
+body .ui-body-b textarea,
+body .ui-body-b button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+body .ui-body-c,
+body .ui-body-c input,
+body .ui-body-c select,
+body .ui-body-c textarea,
+body .ui-body-c button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+body .ui-body-d,
+body .ui-body-d input,
+body .ui-body-d select,
+body .ui-body-d textarea,
+body .ui-body-d button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+body .ui-body-e,
+body .ui-body-e input,
+body .ui-body-e select,
+body .ui-body-e textarea,
+body .ui-body-e button {
+	font-family: "Courier New", Georgia, Verdana, Helvetica, Arial, sans-serif;
+}
+*/
